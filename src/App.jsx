@@ -1,4 +1,4 @@
-import Login from './components/login.jsx';
+import Login from "./components/login";
 import Counter from './components/counter/counter';
 import "./App.css";
 
